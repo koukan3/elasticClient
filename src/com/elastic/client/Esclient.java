@@ -18,7 +18,7 @@ public class Esclient {
 	
 	TransportClient client;
 	private String clusterName = "elasticsearch";
-	private String host = "172.30.17.156";
+	private String host = "***";
 	private int port  = 9300;
 	
 	@Before
